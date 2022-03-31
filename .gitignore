@@ -1,0 +1,11 @@
+#Container
+/container/node_modules
+/container/package-lock.json
+
+# Products 
+/products/node_modules
+/products/package-lock.json
+
+# Cart 
+/cart/node_modules
+/cart/package-lock.json
