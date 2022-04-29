@@ -1,3 +1,5 @@
-import "products/ProductsIndex";
+import "cart/CartShow"
+import { mount } from "products/ProductsIndex"
 
-console.log("Container");
+mount(document.querySelector("#products"))
+console.log("Container")
